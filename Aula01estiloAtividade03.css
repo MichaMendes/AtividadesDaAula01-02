@@ -1,0 +1,28 @@
+.A{
+    background-color: #008fee;
+    width: 400px;
+    height: 190px;
+}
+.B{
+    background-color: #005fee;
+    width: 60px; 
+    height: 200px;
+}
+.C{
+    color: rgb(251, 255, 2);
+    background-color: rgb(255, 0, 170); 
+    font-size: 100px; 
+    font-family:fantasy;
+    font-weight: 500;
+}
+.D{
+width: 90%; 
+height: 70vh; 
+background-color: rgb(98, 0, 255);
+}
+.E{
+    height: 10%; 
+    width: 45vw;  
+    background-color: rgb(195, 0, 255);
+}
+
